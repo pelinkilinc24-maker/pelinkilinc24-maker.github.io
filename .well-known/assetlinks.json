@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.pelinkilinc24_maker.twa",
+        "sha256_cert_fingerprints": ["74:9A:25:88:C9:1F:64:F6:4E:40:73:E9:A9:2F:80:20:35:DF:C6:CF:74:65:45:E0:07:D1:1F:4E:2B:48:B9:13"]
+      }
+    }]
