@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.pelinkilinc24_maker.twa",
-        "sha256_cert_fingerprints": ["E2:04:0D:EA:EB:11:AD:F3:C2:19:6A:AB:90:CE:17:5F:94:E5:EC:A3:70:AF:5B:5D:AF:79:5F:41:ED:E2:0A:00"]
+        "sha256_cert_fingerprints": ["D2:E7:C1:C9:5E:7C:8C:C6:6A:0A:8D:05:57:1E:2F:A9:DA:A1:98:97:C5:D5:75:22:4A:E3:24:01:A4:27:BE:C4"]
       }
     }]
