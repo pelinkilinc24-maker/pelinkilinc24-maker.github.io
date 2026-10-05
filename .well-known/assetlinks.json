@@ -4,8 +4,19 @@
     "target": {
       "namespace": "android_app",
       "package_name": "io.github.pelinkilinc24_maker.twa",
-      "sha256_cert_fingerprints":
-        ["C0:2D:14:F4:48:0B:B2:11:21:2C:A5:9B:3E:02:6E:27:E8:DA:16:2E:45:51:71:C2:8A:1B:6F:59:6D:08:D4:7F"]
+      "sha256_cert_fingerprints": [
+        "C0:2D:14:F4:48:0B:B2:11:21:2C:A5:9B:3E:02:6E:27:E8:DA:16:2E:45:51:71:C2:8A:1B:6F:59:6D:08:D4:7F"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.arastudio.belegwaechter",
+      "sha256_cert_fingerprints": [
+        "7B:BF:7F:38:A5:70:B1:52:12:CF:8E:4E:EC:5A:03:AA:53:ED:66:C8:61:30:14:F0:0B:24:B7:51:56:09:3D:F2"
+      ]
     }
   }
 ]
