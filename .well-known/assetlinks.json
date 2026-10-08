@@ -15,7 +15,8 @@
       "namespace": "android_app",
       "package_name": "com.arastudio.belegwaechter",
       "sha256_cert_fingerprints": [
-        "7B:BF:7F:38:A5:70:B1:52:12:CF:8E:4E:EC:5A:03:AA:53:ED:66:C8:61:30:14:F0:0B:24:B7:51:56:09:3D:F2"
+        "7B:BF:7F:38:A5:70:B1:52:12:CF:8E:4E:EC:5A:03:AA:53:ED:66:C8:61:30:14:F0:0B:24:B7:51:56:09:3D:F2",
+        "B9:15:79:BF:8D:41:77:DE:09:98:B0:EA:92:71:36:45:72:D1:AB:1F:0D:E1:10:E6:DF:E9:88:E5:00:3D:57:31"
       ]
     }
   }
